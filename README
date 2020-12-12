@@ -22,5 +22,13 @@ Problemas a serem resolvidos:
 - Aquisição de dados em tempo real. 
 - Elaboração do controle adaptativo em tempo real. 
 
+Variaveis de Input:
+-Velocidade retórica do motor
+-Corrente da fase.  
+- BackEMF Trapezoidal 
+
+Variavel de saida:
+Posição angular do motor
+
 Foi-se utilizada a linguagem de programação Python e as seguintes bibliotecas: pandas, numpy, matplotlib, sk-learng e tensorflow.
 
